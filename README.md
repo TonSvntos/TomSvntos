@@ -1,4 +1,4 @@
-### Olá eu sou o Tony!!! 🍖
+### Hello! I am Tony!!! 🍖
 
  <div>
   <a href="https://github.com/TonyVeStos">
