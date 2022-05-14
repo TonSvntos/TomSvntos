@@ -23,7 +23,7 @@
 </div>
   
 <div>
-  <img align="center" alt="luffy" src="https://i.pinimg.com/originals/2d/10/0d/2d100dd2c60df0d42b7ed074724b7bb1.gif">
+  <img align="center" style="width: 10%, height:10%" alt="luffy" src="https://i.pinimg.com/originals/2d/10/0d/2d100dd2c60df0d42b7ed074724b7bb1.gif">
 </div>
   
  
